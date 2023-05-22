@@ -2,7 +2,7 @@
 
 ## ÍNDICE
 
-* [1. Intro](#)
+* [1. Intro](https://github.com/Lis-AH/clondeinterfazdegoogle/blob/main/README.md#1intro)
 * [2. ¿Qué construí?](#)
 * [3.Objetivo del proyecto](#)
 
